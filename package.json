@@ -1,0 +1,24 @@
+{
+  "name": "fictional-doodle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femmebot/fictional-doodle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/femmebot/fictional-doodle/issues"
+  },
+  "homepage": "https://github.com/femmebot/fictional-doodle#readme",
+  "dependencies": {
+    "graphql": "^14.0.2",
+    "graphql-tools": "^4.0.3"
+  }
+}
